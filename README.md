@@ -7,7 +7,17 @@ It includes a navbar, Hero section with carousels, product display sections with
   <li>CSS</li>
   <li>JavaScript</li>
 </ul>
-<h3>Screenshot of amazone clone:</h3>
+<br/>
+<h3>Video of amazon UI clone:</h3>
+<br/>
+
+
+
+https://github.com/user-attachments/assets/4b3953a6-d1b6-4681-9e6c-7d4f19c544ed
+
+
+<br/>
+<h3>Screenshots of amazon clone:</h3>
 
 <i><b>1).</b></i>
 <br/>
