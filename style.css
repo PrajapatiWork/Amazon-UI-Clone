@@ -20,6 +20,7 @@
 
 .border:hover {
   border: 1px solid white;
+  cursor: pointer;
 }
 
 /* for ḷogo design */
@@ -567,6 +568,7 @@
 
 .backtotop button:hover {
   background-color: #485769;
+  cursor: pointer;
 }
 
 .topFooter {
